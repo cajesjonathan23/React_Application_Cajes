@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/%7BReact_Application_Cajes%7D/static/css/main.88404e20.css",
+    "main.js": "/%7BReact_Application_Cajes%7D/static/js/main.d80185e7.js",
+    "static/js/787.c5ca4160.chunk.js": "/%7BReact_Application_Cajes%7D/static/js/787.c5ca4160.chunk.js",
+    "index.html": "/%7BReact_Application_Cajes%7D/index.html",
+    "main.88404e20.css.map": "/%7BReact_Application_Cajes%7D/static/css/main.88404e20.css.map",
+    "main.d80185e7.js.map": "/%7BReact_Application_Cajes%7D/static/js/main.d80185e7.js.map",
+    "787.c5ca4160.chunk.js.map": "/%7BReact_Application_Cajes%7D/static/js/787.c5ca4160.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88404e20.css",
+    "static/js/main.d80185e7.js"
+  ]
+}

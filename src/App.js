@@ -5,6 +5,9 @@ import Home from "./pages/home";
 import ContactUs from "./pages/contactus";
 import AboutUs from "./pages/aboutus";
 
+import ClassState from "./pages/ClassState";
+import FunctionalState from "./pages/FunctionalState";
+import BasicFormHandling from "./pages/BasicFormHandling";
 function App() {
   return (
     <div className="App">
@@ -14,6 +17,10 @@ function App() {
             <Route path="/" element={<Home></Home>}></Route>
             <Route path="/about" element={<AboutUs/>}></Route>
             <Route path="/contact" element={<ContactUs/>}></Route>
+            <Route path="/classState" element={<ClassState></ClassState>}></Route>
+            <Route path="/functionalUseState" element={<FunctionalState></FunctionalState>}></Route>
+            <Route path="/basicFormHandling" element={<BasicFormHandling/>}></Route>
+          
           </Routes>
         </BrowserRouter>
         
